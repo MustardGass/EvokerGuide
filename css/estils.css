@@ -36,13 +36,14 @@ body {
 }
 
 .cosPagina{
-    margin-left: 250px; 
-    margin-right: 250px; 
+    margin-left: 40vh; 
+    margin-right: 40vh; 
     text-align: justify;
 }
 
 .imgArticle{
-    width: 450px;
+    width: 60vh;
     display: block;
     margin: 0 auto;
 }
+
