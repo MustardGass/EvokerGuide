@@ -1,0 +1,48 @@
+body {
+    background-color: #242526;
+    margin: 0;
+}
+
+.divImage{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../img/evokerBG.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 100%;
+    height: 50vh;    
+
+}
+
+
+.iconImage{
+    height: 50px;
+    border-radius: 5px;
+}
+
+.menuSuperior div{
+    padding-left: 50px;
+}
+.menuSuperior div p{
+    color:white;
+    text-align: center;
+}
+
+.navbar {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center; 
+    align-items: center; 
+}
+
+.cosPagina{
+    margin-left: 250px; 
+    margin-right: 250px; 
+    text-align: justify;
+}
+
+.imgArticle{
+    width: 450px;
+    display: block;
+    margin: 0 auto;
+}
